@@ -1,0 +1,11 @@
+ipykernel
+requests
+tqdm
+joblib
+PyPDF2
+pandas
+pillow==9.2.0
+datasets
+transformers
+torchvision
+# pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu
